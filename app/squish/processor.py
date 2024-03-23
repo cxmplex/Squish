@@ -7,8 +7,6 @@ class URLParserException(Exception):
     pass
 
 class URLParser:
-    url = None
-
     def __init__(self):
         pass
 
