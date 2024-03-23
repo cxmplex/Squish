@@ -3,6 +3,12 @@ Squish quishing (QR code based phishing) with ease
 
 Fun 1 hour code-write for QR-code detection, URL extraction, URL processing.
 
+# Demo
+
+Due to GPU requirements, hosting this isn't feasible for free, so here's a video:
+
+
+
 # Features
 
 Image Attachment (PNG) Submission via API
