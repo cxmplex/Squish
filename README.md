@@ -3,10 +3,6 @@ Squish quishing (QR code based phishing) with ease
 
 Fun 1 hour code-write for QR-code detection, URL extraction, URL processing.
 
-# Demo
-
-Hosted on Amazon Web Services EC2
-
 # Building
 
 Squish is a dockerized application. Building and running it is as simple as:
