@@ -1,0 +1,6 @@
+bottle
+qreader
+numpy
+gunicorn
+opencv-python-headless
+pyzbar
