@@ -23,7 +23,7 @@ QR Code detection powered by QReader
 
 URL Extraction from QR code
 
-URL processing (whois, domain, tld, ip, subdirectories, etc)
+URL processing (whois, domain, tld, ip, subdirectories, ptr, mx, etc)
 
 
 Third Party Libraries:
