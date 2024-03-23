@@ -1,7 +1,7 @@
 # Squish
 Squish quishing (QR code based phishing) with ease
 
-Fun 1 hour code-write for QR-code detection, URL extraction, URL processing.
+Fun 1 hour code-write for QR-code detection, URL extraction, URL processing. Front-end is incredibly simple since time was limited, just a basic bootstrap submission form.
 
 # Building
 
