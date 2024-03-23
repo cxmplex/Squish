@@ -11,6 +11,7 @@ Fun 1 hour code-write for QR-code detection, URL extraction, URL processing.
 Squish is a dockerized application. Building and running it is as simple as:
 
 `docker build squish`
+
 `docker run -p 8085:8085 squish`
 
 # Features
